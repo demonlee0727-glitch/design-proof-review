@@ -1,0 +1,4 @@
+interface:
+  display_name: "设计改稿批注核对 · Design Proof Review"
+  short_description: "逐条核对改稿与批注 · Verify each proof correction"
+  default_prompt: "请用 $design-proof-review 核对旧稿批注和新版 PDF，列出漏改和待复核事项。 / Check the marked-up proof against the revision and list outstanding edits."
